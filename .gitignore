@@ -3,3 +3,8 @@
 output/
 build/
 target/
+ 
+.classpath
+.gradle/
+.project
+.settings/
